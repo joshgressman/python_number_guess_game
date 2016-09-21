@@ -13,3 +13,5 @@ import math
 math.ceil(conv_dollars)
 
 rounds up
+
+create more variables 
